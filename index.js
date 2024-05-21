@@ -23,7 +23,7 @@ import('random').then(({ default: Random }) => {
       );
     });
   }; 
-
+  
   makeCommit(100);
 }).catch(error => {
   // Handle any errors that may occur during the import
