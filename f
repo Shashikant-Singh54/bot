@@ -13,7 +13,7 @@ const makeCommit = n => {
                   .add(x, 'w').add(y, 'd').format();
 
     const data = {
-        date: DATE
+        date: DATE 
     }
     console.log(DATE);
     
